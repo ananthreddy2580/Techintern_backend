@@ -35,7 +35,8 @@ CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
     # "https://todo-app-9f6l.vercel.app",
     "http://localhost:5173",
-    "http://192.168.1.8:5173"
+    "http://192.168.1.8:5173",
+    "https://techintern-backend-1.onrender.com"
     
 ]
 CORS_ALLOW_CREDENTIALS = True
